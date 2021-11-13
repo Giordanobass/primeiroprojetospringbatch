@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.udemy.primeiroprojetospringbatch.PrimeiroJobSpringBatchApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.005 s <<< FAILURE! - in com.udemy.primeiroprojetospringbatch.PrimeiroJobSpringBatchApplicationTests
+com.udemy.primeiroprojetospringbatch.PrimeiroJobSpringBatchApplicationTests  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.ExceptionInInitializerError
+Caused by: org.apache.logging.log4j.LoggingException: log4j-slf4j-impl cannot be present with log4j-to-slf4j
+
